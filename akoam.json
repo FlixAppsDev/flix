@@ -1,26 +1,28 @@
 {
 
 
-  "ads":[
+  "data":[
     {
       "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
       "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
       "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
 	  
-	   "FaceBanner":"IMG_16_9_APP_INSTALL#",
+      "FaceBanner":"IMG_16_9_APP_INSTALL#",
       "FaceInterstitial":"IMG_16_9_APP_INSTALL#",
       "FaceNative":"IMG_16_9_APP_INSTALL#",
 	  	  
       "UnityGame":"",
       "UnityInterstitial":"Interstitial_Android",
-	  "UnityBanner":"Banner_Android",
+      "UnityBanner":"Banner_Android",
 	  
-	  "ApplovinInterstitial":"",
-	  "ApplovinBanner":"",
+      "ApplovinInterstitial":"",
+      "ApplovinBanner":"",
+	    
+      "UrlDefault":"https://akwam.io/",
+      "UrlImage":"https://akwam.link/",
 
       "Switch":"admob"
 	  
-	  //"Switch":"admob" or "Switch":"fan" or "Switch":"max" or "Switch":"unity" hado bach tbadal les ads li baghi nta
  
     }
   ]
