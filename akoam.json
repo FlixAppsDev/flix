@@ -20,9 +20,9 @@
       "ApplovinInterstitial":"2e36ee8ef5b15fde",
       "ApplovinBanner":"911135fa1cf2f957",
 	    
-      "ApplovinInterstitialMax":"",
-      "ApplovinBannerMax":"",
-      "ApplovinNativeMax" : "",
+      "ApplovinInterstitialMax":"a921722730f442f1",
+      "ApplovinBannerMax":"c06690ff128de917",
+      "ApplovinNativeMax" : "444d3b6003fe8b34",
 
       "IronInterstitial" : "",
       "IronBanner" : "",
@@ -30,7 +30,7 @@
       "UrlDefault":"https://akwam.cx/",
       "UrlImage":"https://akwam.link/",
 
-      "Switch":"unity"
+      "Switch":"admob"
 	  
  
     }
