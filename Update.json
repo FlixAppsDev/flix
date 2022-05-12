@@ -1,6 +1,8 @@
 {
  "versionCode": 1,
  "cancellable": false,
- "message":"Please update the application so you can use it well thank you",
+ "title":"Please update the application so you can use it well thank you",
+  "message":"Please update the application so you can use it well thank you",
+ "img":"Please update the application so you can use it well thank you",
  "url": "https://flixappsdev.github.io/flix/app-debug.apk" 
 }
