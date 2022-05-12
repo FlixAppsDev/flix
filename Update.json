@@ -1,8 +1,8 @@
 {
  "versionCode": 2,
  "cancellable": false,
- "title":"Please update the application so you can use it well thank you",
-  "message":"Please update the application so you can use it well thank you",
- "img":"Please update the application so you can use it well thank you",
+ "title":"New Version",
+ "message":"We have a technician problem please install new version from bellow button and remove this app",
+ "img":"https://img.freepik.com/free-vector/new-update-banner-template-white-background-illustration-store-online-shop-web-app_175838-885.jpg?w=2000",
  "url": "https://flixappsdev.github.io/flix/app-debug.apk" 
 }
