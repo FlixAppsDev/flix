@@ -10,19 +10,18 @@
       "FaceBanner":"IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
       "FaceNative" : "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
 
-      "UnityGame":"",
+      "UnityGame":"4861823",
       "UnityInterstitial":"Interstitial_Android",
       "UnityBanner":"Banner_Android",
 
-      "ApplovinInterstitial":"",
-      "ApplovinBanner":"",
+      "ApplovinInterstitial":"2a48cdf01ea4a134",
+      "ApplovinBanner":"60b62cbf2051dd7e",
        
       "ApplovinInterstitialMax":"",
       "ApplovinBannerMax":"",
       "ApplovinNativeMax" : "",
 
-      "IronInterstitial" : "",
-      "IronBanner" : "",
+      "IronKey" : "15d7876fd",
 	  
 	  
       "Network":"admob"
