@@ -3,32 +3,32 @@
 
   "data":[
     {
-      "AdmobBanner":"ca-app-pub-2420882799260132/8550852365",
-      "AdmobInterstitial":"ca-app-pub-2420882799260132/5688885303",
-      "AdmobNative":"ca-app-pub-2420882799260132/1749640296",
+      "AdmobBanner":"",
+      "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+      "AdmobNative":"",
 	  
-      "FaceBanner":"1006210563642146_1006213606975175",
-      "FaceInterstitial":"1006210563642146_1006212796975256",
-      "FaceNative":"1006210563642146_1006214196975116",
+      "FaceBanner":"",
+      "FaceInterstitial":"",
+      "FaceNative":"",
 	  	  
-      "UnityGame":"4566417",
+      "UnityGame":"",
       "UnityInterstitial":"Interstitial_Android",
       "UnityBanner":"Banner_Android",
       "UnityReword":"Rewarded_Android",
 
 	  
-      "ApplovinInterstitial":"2e36ee8ef5b15fde",
-      "ApplovinBanner":"911135fa1cf2f957",
+      "ApplovinInterstitial":"",
+      "ApplovinBanner":"",
 	    
-      "ApplovinInterstitialMax":"a921722730f442f1",
-      "ApplovinBannerMax":"9efcf1faa6ff7c4d",
-      "ApplovinNativeMax" : "444d3b6003fe8b34",
+      "ApplovinInterstitialMax":"",
+      "ApplovinBannerMax":"",
+      "ApplovinNativeMax" : "",
 
       "IronInterstitial" : "",
       "IronBanner" : "",
 	    
      
-      "Switch":"unity"
+      "Switch":"admob"
 	  
  
     }
