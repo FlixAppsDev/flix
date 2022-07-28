@@ -5,11 +5,9 @@
     {
       "AdmobBanner":"",
       "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
-      "AdmobNative":"",
 	  
       "FaceBanner":"",
       "FaceInterstitial":"",
-      "FaceNative":"",
 	  	  
       "UnityGame":"",
       "UnityInterstitial":"Interstitial_Android",
@@ -22,13 +20,12 @@
 	    
       "ApplovinInterstitialMax":"",
       "ApplovinBannerMax":"",
-      "ApplovinNativeMax" : "",
 
       "IronInterstitial" : "",
       "IronBanner" : "",
 	    
      
-      "Switch":"admob"
+      "Network":"admob"
 	  
  
     }
