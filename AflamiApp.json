@@ -18,8 +18,8 @@
       "UnityReword":"Rewarded_Android",
 
 	  
-      "ApplovinInterstitial":"",
-      "ApplovinBanner":"",
+      "ApplovinInterstitial":"821fc6f31c6e018c",
+      "ApplovinBanner":"795cb04871591b3a",
 	    
       "ApplovinInterstitialMax":"",
       "ApplovinBannerMax":"",
@@ -31,7 +31,7 @@
       "UrlDefault":"https://akwam.guru/",
       "UrlImage":"https://img.akwam.link/",
 
-      "Switch":"unity"
+      "Switch":"applovin"
 	  
  
     }
