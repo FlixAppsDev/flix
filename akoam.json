@@ -27,8 +27,8 @@
       "IronInterstitial" : "",
       "IronBanner" : "",
 	    
-      "UrlDefault":"https://akwam.guru/",
-      "UrlImage":"https://img.akwam.link/",
+      "UrlDefault":"offhttps://akwam.guru/",
+      "UrlImage":"offhttps://img.akwam.link/",
 
       "Switch":"unity"
 	  
