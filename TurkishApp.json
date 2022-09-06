@@ -24,14 +24,14 @@
       "MaxBanner":"622c26ce3dce36ac",
       "MaxNative" : "286d3ca48df630c9",
 
-      "AdsCount" : "3",  
+      "AdsCount" : "2",  
       "IronKey" : "165be557d",
           
       "ActiveApp" : "yes",
       "UrlDefault":"https://akwam.guru/",
       "UrlImage":"https://img.akwam.link/",
 
-      "Switch":"max"
+      "Switch":"applovin"
 	  
  
     }
