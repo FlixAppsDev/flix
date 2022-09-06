@@ -11,18 +11,18 @@
       "FanBanner":"IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
       "FanNative" : "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
 	  	  
-      "UnityGame":"",
+      "UnityGame":"4917585",
       "UnityInterstitial":"Interstitial_Android",
       "UnityBanner":"Banner_Android",
       "UnityReword":"Rewarded_Android",
 
 	  
-      "ApplovinInterstitial":"",
-      "ApplovinBanner":"",
+      "ApplovinInterstitial":"443782ca1790c76c",
+      "ApplovinBanner":"4a680231e1f901c5",
 	    
-      "MaxInterstitial":"",
-      "MaxBanner":"",
-      "MaxNative" : "",
+      "MaxInterstitial":"8e2996217a53aa35",
+      "MaxBanner":"622c26ce3dce36ac",
+      "MaxNative" : "286d3ca48df630c9",
 
       "AdsCount" : "3",  
       "IronKey" : "165be557d",
@@ -31,7 +31,7 @@
       "UrlDefault":"https://akwam.guru/",
       "UrlImage":"https://img.akwam.link/",
 
-      "Switch":"fan"
+      "Switch":"max"
 	  
  
     }
