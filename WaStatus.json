@@ -17,8 +17,8 @@
       "UnityReword":"Rewarded_Android",
 
 	  
-      "ApplovinInterstitial":"",
-      "ApplovinBanner":"",
+      "ApplovinInterstitial":"7c754039dfc572e1",
+      "ApplovinBanner":"WaStatusInter",
 	    
       "MaxInterstitial":"",
       "MaxBanner":"",
@@ -29,7 +29,7 @@
           
       "ActiveApp" : "yes",
      
-      "Switch":"fan"
+      "Switch":"applovin"
 	  
  
     }
