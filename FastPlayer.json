@@ -6,9 +6,9 @@
       "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
       "AdmobNative" : "ca-app-pub-3940256099942544/2247696110",
 
-      "FaceInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
-      "FaceBanner":"IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
-      "FaceNative" : "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+      "FaceInterstitial":"1093281434911927_1093286401578097",
+      "FaceBanner":"1093281434911927_1093286614911409",
+      "FaceNative" : "1093281434911927_1102874113952659",
 
       "UnityGame":"4861823",
       "UnityInterstitial":"Interstitial_Android",
@@ -24,7 +24,7 @@
       "IronKey" : "15d7876fd",
 	  
 	  
-      "Network":"unity"
+      "Network":"fan"
 	  
  
     }
