@@ -7,9 +7,9 @@
       "AdmobBanner":"ca-app-pub-2420882799260132/6674514860",
       "AdmobNative" : "ca-app-pub-2420882799260132/8446387808",
 	  
-      "FanInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
-      "FanBanner":"IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
-      "FanNative" : "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+      "FanInterstitial":"480790107157578_480790217157567",
+      "FanBanner":"480790107157578_480790227157566",
+      "FanNative" : "480790107157578_480790223824233",
 	  	  
       "UnityGame":"4885339",
       "UnityInterstitial":"Interstitial_Android",
@@ -31,7 +31,7 @@
       "UrlDefault":"https://akwam.guru/",
       "UrlImage":"https://img.akwam.link/",
 
-      "Switch":"admob"
+      "Switch":"fan"
 	  
  
     }
